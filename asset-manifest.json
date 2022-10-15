@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tydos.github.io/static/css/main.76031048.css",
+    "main.js": "/Tydos.github.io/static/js/main.0db94451.js",
+    "index.html": "/Tydos.github.io/index.html",
+    "main.76031048.css.map": "/Tydos.github.io/static/css/main.76031048.css.map",
+    "main.0db94451.js.map": "/Tydos.github.io/static/js/main.0db94451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76031048.css",
+    "static/js/main.0db94451.js"
+  ]
+}
